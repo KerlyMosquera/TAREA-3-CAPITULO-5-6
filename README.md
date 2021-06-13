@@ -6,10 +6,10 @@
 -Calcular el efecto de carga de un amperímetro en un circuito.
 -Emplear la computadora para ayudarse en el ánalisis de circuitos en serie simples.
 -Reconocer qué elementro y ramas en un circuito dado están conectados en paralelo y cuáles en serie.
--Calcular la resistencia y conductancia total de un red de resistencias en paralelo.
+-Calcular la resistencia y conductancia total de un red de resistencias en paralelo.   
 - Aplicar la ley de corriente de Kirchhoff para conocer las corrientes desconocidas en un circuito.
 - Usar la regla del divisor de corriente para determinar la corriente a través de cualquier combinación de resistores en paralelo.
-- Emplear Multisim y PSpince para evaluar efectos de carga en voltímetro y para evaluar  el voltaje y corriente en un circuito en paralelo.
+- Emplear Multisim y PSpince para evaluar efectos de carga en voltímetro y para evaluar  el voltaje y corriente en un circuito en paralelo .
 ## 2. MARCO TEÓRICO (RESUMEN)
 ## 2.1 CIRCUITOS EN SERIE
 
