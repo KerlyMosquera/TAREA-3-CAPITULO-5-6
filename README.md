@@ -14,9 +14,9 @@
 
 ### 2.1 CIRCUITOS EN SERIE
 
-![image](https://user-images.githubusercontent.com/84431598/122268276-7c930b00-cea1-11eb-9f31-2e7eb0f4be00.png)
-
 ### 2.1.1 CIRCUITOS EN SERIE
+
+![image](https://user-images.githubusercontent.com/84431598/122268363-96345280-cea1-11eb-8f55-c8f68ce9e209.png)
 
 ### 2.1.2 LEY DE VOLTAJE DE KIRCHHOFF
 
