@@ -24,6 +24,8 @@
 
 ### 2.1.4 FUENTES DE VOLTAJE EN SERIE
 
+![image](https://user-images.githubusercontent.com/84431598/122275223-114d3700-cea9-11eb-8bf8-a66195de16d9.png)
+
 ### 2.1.5 INTERCAMBIO DE COMPONENTE EN SERIE
 
 ### 2.1.6 REGLA DEL DIVISOR DE VOLTAJE
