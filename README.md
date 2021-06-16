@@ -18,12 +18,13 @@
 
 ![image](https://user-images.githubusercontent.com/84431598/122298396-55006a80-cec2-11eb-8466-e38f15876d8d.png)
 
-
 ### 2.1.2 LEY DE VOLTAJE DE KIRCHHOFF
 
 ![image](https://user-images.githubusercontent.com/84431598/122297668-67c66f80-cec1-11eb-84c6-70e37b66a5ab.png)
 
 ### 2.1.3 RESISTORES EN SERIE
+
+![image](https://user-images.githubusercontent.com/84431598/122303105-9d228b80-cec8-11eb-9b63-b13ae01b5981.png)
 
 ### 2.1.4 FUENTES DE VOLTAJE EN SERIE
 
