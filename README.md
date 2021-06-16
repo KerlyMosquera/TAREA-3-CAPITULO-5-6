@@ -20,6 +20,8 @@
 
 ### 2.1.2 LEY DE VOLTAJE DE KIRCHHOFF
 
+![image](https://user-images.githubusercontent.com/84431598/122297668-67c66f80-cec1-11eb-84c6-70e37b66a5ab.png)
+
 ### 2.1.3 RESISTORES EN SERIE
 
 ### 2.1.4 FUENTES DE VOLTAJE EN SERIE
