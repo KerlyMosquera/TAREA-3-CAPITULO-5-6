@@ -24,7 +24,7 @@
 
 ### 2.1.3 RESISTORES EN SERIE
 
-![image](https://user-images.githubusercontent.com/84431598/122303105-9d228b80-cec8-11eb-9b63-b13ae01b5981.png)
+![image](https://user-images.githubusercontent.com/84431598/122303469-3782cf00-cec9-11eb-9bf1-616df6e774a2.png)
 
 ### 2.1.4 FUENTES DE VOLTAJE EN SERIE
 
