@@ -190,10 +190,28 @@ red de la figura 6-68.
 
 ![image](https://user-images.githubusercontent.com/84431598/122464298-50988800-cf7c-11eb-8efa-18bb6ff3eacf.png)
 
+![image](https://user-images.githubusercontent.com/84431598/122467092-b5091680-cf7f-11eb-9be3-9016980f4de5.png)
 
 ### 3.2.4 FUENTES DE VOLTAJE EN PARALELO
 
+27. Dos baterías de 20 V se conectan en paralelo para suministrar corriente a una
+carga de 100 V, como se muestra en la figura 6-69. Determine la corriente en
+la carga y en cada batería.
+
+![image](https://user-images.githubusercontent.com/84431598/122467279-f4376780-cf7f-11eb-8c81-d34b8a2ad188.png)
+
 ### 3.2.5 REGLA DEL DIVISOR DE CORRIENTE
+
+29. Utilice la regla del divisor de corriente para encontrar las corrientes I1 e I2 en
+las redes de la figura 6-71.
+
+![image](https://user-images.githubusercontent.com/84431598/122467445-234dd900-cf80-11eb-8e7f-a6d6741d772f.png)
+
+31. Utilice la regla del divisor de corriente para determinar todas las corrientes
+desconocidas en las redes de la figura 6-73.
+
+![image](https://user-images.githubusercontent.com/84431598/122467595-54c6a480-cf80-11eb-9bac-6d954933bf56.png)
+
 
 ### 3.2.6 ANÁLISIS DE CIRCUITOS EN PARALELO
 
