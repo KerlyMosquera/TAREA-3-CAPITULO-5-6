@@ -102,6 +102,9 @@ la magnitud y la polaridad del voltaje V.
 
 ![image](https://user-images.githubusercontent.com/84431598/122329829-b262de80-cef7-11eb-9fa0-56992bd9b866.png)
 
+![image](https://user-images.githubusercontent.com/84431598/122336280-30c47e00-cf02-11eb-8e50-bd0c5fd34ad0.png)
+
+7. Resuelva para hallar los voltajes desconocidos en el circuito de la figura 5-50.
 
 ### 3.1.3 RESISTORES EN SERIE
 
