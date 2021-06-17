@@ -125,9 +125,12 @@ RT, y la corriente I.
 
 Circuito 1:
 
-![image](https://user-images.githubusercontent.com/84431598/122344316-49399600-cf0c-11eb-8df7-50d6cd711317.png)
+![image](https://user-images.githubusercontent.com/84431598/122345532-91a58380-cf0d-11eb-9f37-e5247e99e31c.png)
 
 Circuito 2:
+
+![image](https://user-images.githubusercontent.com/84431598/122345355-615de500-cf0d-11eb-8359-baa25eef4f63.png)
+
 
 ### 3.1.4 FUENTES DE VOLTAJES EN SERIE
 
