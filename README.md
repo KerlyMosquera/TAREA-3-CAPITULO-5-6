@@ -110,8 +110,12 @@ la magnitud y la polaridad del voltaje V.
 
 ![image](https://user-images.githubusercontent.com/84431598/122339951-49836280-cf07-11eb-900d-e63dc3884680.png)
 
-
 ### 3.1.3 RESISTENCIAS EN SERIE
+
+9. Determine la resistencia total de las redes que se muestran en la figura 5-52.
+
+![image](https://user-images.githubusercontent.com/84431598/122340223-a3842800-cf07-11eb-9dad-f6d41379280a.png)
+
 
 ### 3.1.4 FUENTES DE VOLTAJES EN SERIE
 
