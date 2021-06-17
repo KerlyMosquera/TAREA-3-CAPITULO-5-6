@@ -375,9 +375,32 @@ red de la figura 6-68.
 carga de 100 V, como se muestra en la figura 6-69. Determine la corriente en
 la carga y en cada batería.
 
-
-
 ### 3.2.5 REGLA DEL DIVISOR DE CORRIENTE
+29. Utilice la regla del divisor de corriente para encontrar las corrientes I1 e I2 en
+las redes de la figura 6-71.
+
+![image](https://user-images.githubusercontent.com/84431598/122471820-58a8f580-cf85-11eb-8760-f14e2920854b.png)
+
+31. Utilice la regla del divisor de corriente para determinar todas las corrientes
+desconocidas en las redes de la figura 6-73.
+
+![image](https://user-images.githubusercontent.com/84431598/122471992-99a10a00-cf85-11eb-92a2-927219f1880e.png)
+
+33. Utilice la regla del divisor de corriente para determinar las resistencias desconocidas
+en la red de la figura 6-75.
+
+![image](https://user-images.githubusercontent.com/84431598/122472136-c9e8a880-cf85-11eb-9c7c-38c251da284f.png)
+
+35. Vea el circuito de la figura 6-77:
+
+a. Determine la resistencia equivalente RT, del circuito.
+
+b. Encuentre la corriente I.
+
+c. Use la regla del divisor de corriente para determinar la corriente en cada
+resistor.
+
+d. Verifique la ley de corriente de Kirchhoff en el nodo a.
 
 ### 3.2.6 ANÁLISIS DE CIRCUITOS EN PARALELO
 
