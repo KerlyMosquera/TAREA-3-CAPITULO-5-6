@@ -131,6 +131,13 @@ Circuito 2:
 
 ![image](https://user-images.githubusercontent.com/84431598/122345355-615de500-cf0d-11eb-8359-baa25eef4f63.png)
 
+13. Para el circuito de la figura 5-56 encuentre las siguientes cantidades:
+a. La corriente del circuito.
+b. La resistencia total.
+c. El valor de la resistencia desconocida, R.
+d. La caída de voltaje en todos los resistores en el circuito.
+e. La potencia disipada por todos los resistores.
+
 
 ### 3.1.4 FUENTES DE VOLTAJES EN SERIE
 
