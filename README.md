@@ -168,6 +168,12 @@ e. La potencia disipada por todos los resistores.
 
 ### 3.2.3 RESISTORES EN PARALELO
 
+19. Determine la resistencia total de cada red de la figura 6-62.
+
+![image](https://user-images.githubusercontent.com/84431598/122456670-71101480-cf73-11eb-809c-54b131abc3bf.png)
+
+
+
 ### 3.2.4 FUENTES DE VOLTAJE EN PARALELO
 
 ### 3.2.5 REGLA DEL DIVISOR DE CORRIENTE
