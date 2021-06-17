@@ -378,6 +378,9 @@ red de la figura 6-68.
 carga de 100 V, como se muestra en la figura 6-69. Determine la corriente en
 la carga y en cada batería.
 
+![image](https://user-images.githubusercontent.com/84431598/122478030-497a7580-cf8e-11eb-9096-8675f821d321.png)
+
+
 ### 3.2.5 REGLA DEL DIVISOR DE CORRIENTE
 29. Utilice la regla del divisor de corriente para encontrar las corrientes I1 e I2 en
 las redes de la figura 6-71.
