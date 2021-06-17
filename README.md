@@ -38,19 +38,31 @@
 
 ### 2.1.8 NOTACIÓN DE SUBÍNDICES DE VOLTAJE
 
+![Notación de subíndices de voltaje](https://user-images.githubusercontent.com/84425276/122332276-c3adea00-cefb-11eb-960d-240164c5dffd.png)
+
 ### 2.1.9 RESISTENCIA INTERNA DE FUENTES DE VOLTAJE
+
+![Resistencia interna de fuentes de voltaje](https://user-images.githubusercontent.com/84425276/122332315-d1636f80-cefb-11eb-8eab-023b936135b2.png)
 
 ### 2.1.10 EFECTOS DE CARGA DEL AMPERÍMETRO
 
 ### 2.1.11  ANÁLISIS DE CIRCUITOS POR COMPUTADORA
- 
+
+![Efectos de carga del amperímetro y análisis de circuitos por computadora (1)](https://user-images.githubusercontent.com/84425276/122332370-eb04b700-cefb-11eb-816c-2b404f299298.png)
+
 ### 2.2 CIRCUITOS EN PARALELO
 
 ### 2.2.1 CIRCITOS EN PARALELO
 
+![Circuitos en paralelo](https://user-images.githubusercontent.com/84425276/122332394-f5bf4c00-cefb-11eb-89b0-f704d9d2be18.png)
+
 ### 2.2.2 LEY DE CORRIENTES DE KIRCHHOFF
 
+![Ley de corriente de Kirchhoff](https://user-images.githubusercontent.com/84425276/122332412-fce65a00-cefb-11eb-9c47-30abf8498f78.png)
+
 ### 2.2.3 RESISTORES EN PARALELO
+
+![Resistores en paralelo](https://user-images.githubusercontent.com/84425276/122332439-05d72b80-cefc-11eb-8d5c-c174b78c1c48.png)
 
 ### 2.2.4 FUENTES DE VOLTAJE EN PARALELO
 
