@@ -69,14 +69,27 @@
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE LOS EJERCICIOS
 
 ###  3.1 CIRCUITOS EN SERIE
+
+### 3.1.1  CIRCUITOS EN SERIE
+
 1. Los voltímetros de la figura 5-44 tienen autopolaridad. Determine la lectura
 de cada medidor, con la magnitud y el signo correctos.
 
+![image](https://user-images.githubusercontent.com/84431598/122329345-e1c51b80-cef6-11eb-8900-74ec57237eaa.png)
 
+![image](https://user-images.githubusercontent.com/84431598/122329442-0ae5ac00-cef7-11eb-9379-ff64cd21c59a.png)
 
-### 3.1.1 CIRCUITOS EN SERIE
+3. Todos los resistores de la figura 5-46 son de 15 Ω. Determine para cada caso
+la magnitud y la polaridad del voltaje V.
+
+![image](https://user-images.githubusercontent.com/84431598/122329534-36689680-cef7-11eb-8234-ecc1bac9529f.png)
 
 ### 3.1.2 LEY DE VOLTAJE DE KIRCHHOF
+
+5. Determine los voltajes desconocidos en las redes de la figura 5-48.
+
+![image](https://user-images.githubusercontent.com/84431598/122329829-b262de80-cef7-11eb-9fa0-56992bd9b866.png)
+
 
 ### 3.1.3 RESISTORES EN SERIE
 
