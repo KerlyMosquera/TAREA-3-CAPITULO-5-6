@@ -350,7 +350,32 @@ El timepo de vida desminuye por el aumeto de voltaje al el circuitono estra cpmp
 
 ### 3.2.3 RESISTORES EN PARALELO
 
+19. Determine la resistencia total de cada red de la figura 6-62.
+
+![image](https://user-images.githubusercontent.com/84431598/122470852-2945b900-cf84-11eb-8794-25b733d2582a.png)
+
+21. Determine los valores de los resistores en el circuito de la figura 6-64, de
+acuerdo con las condiciones que se indican.
+
+![image](https://user-images.githubusercontent.com/84431598/122470965-4d08ff00-cf84-11eb-87a7-8bece98d7003.png)
+
+23. Sin usar lápiz, papel o calculadora determine la resistencia de cada red en la
+figura 6-66.
+
+![image](https://user-images.githubusercontent.com/84431598/122471048-65791980-cf84-11eb-98d6-19dc7e33a963.png)
+
+25. Sin usar lápiz, papel o calculadora determine la resistencia aproximada de la
+red de la figura 6-68.
+
+![image](https://user-images.githubusercontent.com/84431598/122471133-7de93400-cf84-11eb-8a5e-7a773e57e58b.png)
+
 ### 3.2.4 FUENTES DE VOLTAJE EN PARALELO
+
+27. Dos baterías de 20 V se conectan en paralelo para suministrar corriente a una
+carga de 100 V, como se muestra en la figura 6-69. Determine la corriente en
+la carga y en cada batería.
+
+
 
 ### 3.2.5 REGLA DEL DIVISOR DE CORRIENTE
 
