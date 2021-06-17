@@ -182,6 +182,9 @@ figura 6-66.
 
 ![image](https://user-images.githubusercontent.com/84431598/122464129-1a5b0880-cf7c-11eb-8191-88a1cd504a2f.png)
 
+![image](https://user-images.githubusercontent.com/84431598/122466094-7a52ae80-cf7e-11eb-854b-35c67329ab67.png)
+
+
 25. Sin usar lápiz, papel o calculadora determine la resistencia aproximada de la
 red de la figura 6-68.
 
