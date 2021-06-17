@@ -410,6 +410,9 @@ resistor.
 
 d. Verifique la ley de corriente de Kirchhoff en el nodo a.
 
+![image](https://user-images.githubusercontent.com/84431598/122477263-0ec40d80-cf8d-11eb-9a2b-30e7b9702184.png)
+
+
 ### 3.2.6 ANÁLISIS DE CIRCUITOS EN PARALELO
 
 37. Vea el circuito de la figura 6-79.
