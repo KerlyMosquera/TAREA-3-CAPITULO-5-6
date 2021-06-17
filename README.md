@@ -172,6 +172,20 @@ e. La potencia disipada por todos los resistores.
 
 ![image](https://user-images.githubusercontent.com/84431598/122456670-71101480-cf73-11eb-809c-54b131abc3bf.png)
 
+21. Determine los valores de los resistores en el circuito de la figura 6-64, de
+acuerdo con las condiciones que se indican.
+
+![image](https://user-images.githubusercontent.com/84431598/122463987-ea136a00-cf7b-11eb-81b5-78af3ff9df7b.png)
+
+23. Sin usar lápiz, papel o calculadora determine la resistencia de cada red en la
+figura 6-66.
+
+![image](https://user-images.githubusercontent.com/84431598/122464129-1a5b0880-cf7c-11eb-8191-88a1cd504a2f.png)
+
+25. Sin usar lápiz, papel o calculadora determine la resistencia aproximada de la
+red de la figura 6-68.
+
+![image](https://user-images.githubusercontent.com/84431598/122464298-50988800-cf7c-11eb-8efa-18bb6ff3eacf.png)
 
 
 ### 3.2.4 FUENTES DE VOLTAJE EN PARALELO
