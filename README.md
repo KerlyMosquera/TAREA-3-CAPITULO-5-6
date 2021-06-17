@@ -384,6 +384,9 @@ las redes de la figura 6-71.
 
 ![image](https://user-images.githubusercontent.com/84431598/122471820-58a8f580-cf85-11eb-8760-f14e2920854b.png)
 
+![image](https://user-images.githubusercontent.com/84431598/122474526-f5b95d80-cf88-11eb-8909-46a95bbcdb6e.png)
+
+
 31. Utilice la regla del divisor de corriente para determinar todas las corrientes
 desconocidas en las redes de la figura 6-73.
 
