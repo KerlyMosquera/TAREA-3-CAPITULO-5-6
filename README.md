@@ -393,6 +393,8 @@ en la red de la figura 6-75.
 
 35. Vea el circuito de la figura 6-77:
 
+![image](https://user-images.githubusercontent.com/84431598/122472548-5d21de00-cf86-11eb-9468-db0f93251af7.png)
+
 a. Determine la resistencia equivalente RT, del circuito.
 
 b. Encuentre la corriente I.
@@ -403,6 +405,50 @@ resistor.
 d. Verifique la ley de corriente de Kirchhoff en el nodo a.
 
 ### 3.2.6 ANÁLISIS DE CIRCUITOS EN PARALELO
+
+37. Vea el circuito de la figura 6-79.
+
+a. Encuentre la resistencia total RT y la corriente I a través de la fuente de
+voltaje.
+
+b. Encuentre todas las corrientes desconocidas en el circuito.
+
+c Verifique la ley de corriente de Kirchhoff en el nodo a.
+
+d. Determine la potencia disipada por cada resistor. Verifique que la potencia
+total disipada por los resistores es igual a la potencia suministrada por la
+fuente de voltaje.
+
+![image](https://user-images.githubusercontent.com/84431598/122472799-a96d1e00-cf86-11eb-9c17-89ca5c91e61b.png)
+
+39. Vea el circuito de la figura 6-81:
+
+a. Calcule la corriente a través de cada resistor en el circuito.
+
+b. Determine la corriente total suministrada por la fuente de voltaje.
+
+c. Encuentre la potencia disipada por cada resistor.
+
+![image](https://user-images.githubusercontent.com/84431598/122472942-d3264500-cf86-11eb-8856-91e38f1beae3.png)
+
+41. En el circuito de la figura 6-83:
+
+a. Determine los valores de todos los resistores.
+
+b. Calcule las corrientes a través de R1, R2 y R4.
+
+c. Encuentre las corrientes I1 e I2.
+
+d. Encuentre la potencia disipada por los resistores R2, R3 y R4.
+
+![image](https://user-images.githubusercontent.com/84431598/122473108-049f1080-cf87-11eb-92c6-fa79951f1285.png)
+
+43. Para el circuito de la figura 6-85 determine cada una de las corrientes indicadas.
+Si el circuito tiene un fusible de 15 A, como se muestra, ¿la corriente es
+suficiente para hacer que el fusible se abra?
+
+![image](https://user-images.githubusercontent.com/84431598/122473435-78411d80-cf87-11eb-9eff-3ce5ceffe9ef.png)
+
 
 ### 3.2.7 EFECTOS DE CARGA EN EL VOLTÍMETRO 
 
