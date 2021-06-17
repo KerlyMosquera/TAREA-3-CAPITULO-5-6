@@ -106,6 +106,9 @@ la magnitud y la polaridad del voltaje V.
 
 7. Resuelva para hallar los voltajes desconocidos en el circuito de la figura 5-50.
 
+![image](https://user-images.githubusercontent.com/84431598/122337992-afbab600-cf04-11eb-8880-44d0a2c422c5.png)
+
+
 ### 3.1.3 RESISTORES EN SERIE
 
 ### 3.1.4 FUENTES DE VOLTAJES EN SERIE
