@@ -369,6 +369,9 @@ red de la figura 6-68.
 
 ![image](https://user-images.githubusercontent.com/84431598/122471133-7de93400-cf84-11eb-8a5e-7a773e57e58b.png)
 
+![ola (2)](https://user-images.githubusercontent.com/84431598/122474046-45e3f000-cf88-11eb-869b-a4631a0f9392.png)
+
+
 ### 3.2.4 FUENTES DE VOLTAJE EN PARALELO
 
 27. Dos baterías de 20 V se conectan en paralelo para suministrar corriente a una
