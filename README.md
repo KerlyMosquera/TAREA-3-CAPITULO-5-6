@@ -1,7 +1,7 @@
 # TAREA-3-CAPITULO-5-6
 ## 1. OBJETIVOS
-- Determinar la resistencia total en un circuito seri y calcular la corriente del circuito
-- Emplear la ley de Ohm y la regla del divisor de voltaje para determinar el voltaje en todos los resistores en el circuito
+- Determinar la resistencia total en un circuito serie y calcular la corriente del circuito.
+- Emplear la ley de Ohm y la regla del divisor de voltaje para determinar el voltaje en todos los resistores en el circuito.
 - Expresar la ley de voltaje de Kirchhoff y usarla para analizar un circuito.
 - Calcular el efecto de carga de un amperímetro en un circuito.
 - Emplear la computadora para ayudarse en el ánalisis de circuitos en serie simples.
