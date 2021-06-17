@@ -96,7 +96,7 @@ la magnitud y la polaridad del voltaje V.
 
 ![image](https://user-images.githubusercontent.com/84431598/122329534-36689680-cef7-11eb-8234-ecc1bac9529f.png)
 
-### 3.1.2 LEY DE VOLTAJE DE KIRCHHOF
+### 3.1.2 LEY DE VOLTAJE DE KIRCHHOFF
 
 5. Determine los voltajes desconocidos en las redes de la figura 5-48.
 
@@ -123,6 +123,11 @@ RT, y la corriente I.
 
 ![image](https://user-images.githubusercontent.com/84431598/122343078-eeec0580-cf0a-11eb-9ca4-bfa17f7ea50e.png)
 
+Circuito 1:
+
+![image](https://user-images.githubusercontent.com/84431598/122344316-49399600-cf0c-11eb-8df7-50d6cd711317.png)
+
+Circuito 2:
 
 ### 3.1.4 FUENTES DE VOLTAJES EN SERIE
 
