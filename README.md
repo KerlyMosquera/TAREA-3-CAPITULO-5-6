@@ -54,6 +54,8 @@
 
 ### 2.2.4 FUENTES DE VOLTAJE EN PARALELO
 
+![image](https://user-images.githubusercontent.com/84431598/122313222-73269480-cedb-11eb-9e8b-10b6b9a9a033.png)
+
 ### 2.2.5  REGLA DEL DIVISOR DE CORRIENTE
 
 ### 2.2.6 ANÁLISIS DE CIRCUITOS EN PARALELO
