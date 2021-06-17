@@ -121,6 +121,8 @@ la magnitud y la polaridad del voltaje V.
 11. Para cada uno de los circuitos de la figura 5-54, determine la resistencia total,
 RT, y la corriente I.
 
+![image](https://user-images.githubusercontent.com/84431598/122343078-eeec0580-cf0a-11eb-9ca4-bfa17f7ea50e.png)
+
 
 ### 3.1.4 FUENTES DE VOLTAJES EN SERIE
 
