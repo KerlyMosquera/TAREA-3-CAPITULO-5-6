@@ -144,11 +144,193 @@ e. La potencia disipada por todos los resistores.
 
 ![image](https://user-images.githubusercontent.com/84431598/122346585-bcdca280-cf0e-11eb-9a13-100beb9128c6.png)
 
+15.-Para el circuito de la figura 5-58, encuentre las siguientes cantidades:
+
+![image](https://user-images.githubusercontent.com/84458025/122456455-34441d80-cf73-11eb-84dd-fec66bc039b1.png)
+
+
+a. La corriente, I.
+
+I=V/R
+
+I=4v/100ohms
+
+I=40mA
+b. La caída de voltaje en cada resistor en el circuito.
+
+V1=(40mA)(3kohms)=12V
+
+V3=(40mA)(0.25kohms)=10V
+
+c. El voltaje en las terminales abiertas a y b.
+
+E=I(RT) 
+
+E=40mA(300ohm+100ohm+250ohm)      
+
+E=40mA(0.65k ohms)
+
+E=26v      
+
+17.-Repita el problema 16 para el circuito de la figura 5-60.
+
+![image](https://user-images.githubusercontent.com/84458025/122457196-06130d80-cf74-11eb-86e7-34fd364af8cf.png)
+
+a. Utilice la ley de voltaje de Kirchhoff para encontrar las caídas de voltajeen R2 y R3.
+
+16v=7.5+IxR2+IxR3
+
+16v=7.5+Ix4.7+Ix3.6 
+
+Vr2=(4.7ohms)(1.02mA)=4.81v
+
+Vr3=(3.6ohms)(1.02mA)=3.69v
+
+b. Determine la magnitud de la corriente, I.
+16v/((7.32+4.7+3.6))=I     
+1.02mA=I  
+I=1.02 mA
+
+c. Encuentre la resistencia desconocida, R1.
+
+R1= 7.5 V
+
+19.-Repita el problema 18 para el circuito de la figura 5-62
+
+![image](https://user-images.githubusercontent.com/84458025/122459234-4b383f00-cf76-11eb-8e41-f50ad78c1a59.png)
+
+a. Encuentre RT.
+RT=r1+r2+r3+r4   
+
+RT=120+39+78+220
+
+RT=457ohms
+
+b. Resuelva para hallar la corriente, I.
+
+E=I(RT)
+
+36v=I(457ohms)
+
+36v/(457ohms)=I 
+
+I=78.8mA
+
+c. Determine la caída de voltaje en cada resistor.
+
+V1=(78.8mA)(0.12kohms)=9.46v
+
+V2=(78.8mA)(0.39kohms)=3.07v
+
+V3=(78.8mA)(0.78kohms)=6.14v
+
+V4=(78.8mA)(0.22kohms)=17.33v
+
+
+d. Verifique la Ley de voltaje de Kirchhoff alrededor del lazo cerrado.
+
+IT=I1+I2+I3+I4   
+
+36v=9.46v+3.07v+6.14v+17.33v
+
+36v=36v
+
+36V
+
+e. Encuentre la potencia disipada por cada resistor.
+
+P1=(78.8mA)^2 (0.12kohms)=0.745w
+
+P2=(78.8mA)^2 (0.39kohms)=0.242w
+
+P3=(78.8mA)^2 (0.78kohms)=0.484w
+
+P4=(78.8mA)^2 (0.22kohms)=1.365w
+
+
+f. Determine la potencia mínima especificada para cada resistor, si están disponibles con las siguientes especificaciones de potencia: 1⁄8 W, 1⁄4 W, 1⁄2 W,1 W y 2 W.
+
+P=P1+P2+P3+P4  
+
+2.836w=0745w+0.242w+0.484w+1.365w
+
+2.836w=2.836w
+
+
+g. Muestre que la potencia suministrada por la fuente de voltaje es igual a la suma de las potencias disipadas por los resistores.
+
+V=180
+
+21.-Vuelva a dibujar los circuitos de la figura 5-64 para mostrar una sola fuente de voltaje para cada circuito. Encuentre la corriente para cada circuito.
+
+![image](https://user-images.githubusercontent.com/84458025/122465920-42e40200-cf7e-11eb-8e83-ffcf25050656.png)
+
+
+![image](https://user-images.githubusercontent.com/84458025/122464768-dae0ec00-cf7c-11eb-94f7-5108cf508fcc.png)
+
+![image](https://user-images.githubusercontent.com/84458025/122464953-0f54a800-cf7d-11eb-8da4-fe8ae03b8472.png)
+
+### 3.5.6 REGLA DEL DIVISOR DE VOLTAJE
+23.-Utilice la regla del divisor de voltaje para determinar el voltaje en cada resistor en los circuitos de la figura 5-66. Use sus resultados para verificar la ley de voltaje de Kirchhoff para cada circuito.
+
+![image](https://user-images.githubusercontent.com/84458025/122465836-28aa2400-cf7e-11eb-90e3-358992023125.png)
+
+![image](https://user-images.githubusercontent.com/84458025/122466200-9ce4c780-cf7e-11eb-9f1b-9fb6d6266d79.png)
+
+![image](https://user-images.githubusercontent.com/84458025/122466378-d9b0be80-cf7e-11eb-9891-4819cad23182.png)
+
+25.-Vea los circuitos de la figura 5-68:
+a. Encuentre los valores de los resistores desconocidos.
+
+
+
+b. Calcule el voltaje en cada resistor.
+
+
+
+c. Determine la potencia disipada por cada resistor.
+
+
+
+27.- Una serie de focos se conecta a una fuente de 120 V como se muestra en la figura 5-70.
+a. Determine la corriente en el circuito.
+
+![image](https://user-images.githubusercontent.com/84458025/122467221-e2ee5b00-cf7f-11eb-94bc-65c272665e37.png)
+
+
+b. Utilice la regla del divisor de voltaje para encontrar el voltaje en cada foco.
+
+v=(25ohm/(24(25)ohms))120v=5v
+
+vf=(5v/24focos)=0.2v
+
+V=0,2
+
+c. Calcule la potencia disipada por cada foco.
+
+p=(0.2A)^2 (25kohms)=1w
+
+E/RT=I
+
+((120v))/(22(25kohms))
+
+I=0.218A
+
+p=(0.218A)^2 (25kohms)=1.19w
+
+
+d. Si un solo foco llegara a estar en circuito abierto, la serie entera dejaría de funcionar. Para prevenir que ello ocurra, cada foco tiene una pequeña cinta
+de metal que pone en corto al foco cuando el filamento falla. Repita los pasos (a) a (c), si dos focos de la serie se quemaran.
+
+NO 
+
+e. Basado en sus cálculos del paso (d), ¿qué cree que pasaría con la esperanzade vida del resto de los focos, si los dos que fallan no fueran reemplazados?
+
+El timepo de vida desminuye por el aumeto de voltaje al el circuitono estra cpmpleto.
+
 ### 3.1.4 FUENTES DE VOLTAJES EN SERIE
 
 ### 3.1.5 INTERCAMBIO DE COMPONENTES EN SERIE
-
-### 3.1.6 REGLA DEL DIVISOR DE VOLTAJE
 
 ### 3.1.7 TIERRA DEL CIRCUITO
 
@@ -168,50 +350,9 @@ e. La potencia disipada por todos los resistores.
 
 ### 3.2.3 RESISTORES EN PARALELO
 
-19. Determine la resistencia total de cada red de la figura 6-62.
-
-![image](https://user-images.githubusercontent.com/84431598/122456670-71101480-cf73-11eb-809c-54b131abc3bf.png)
-
-21. Determine los valores de los resistores en el circuito de la figura 6-64, de
-acuerdo con las condiciones que se indican.
-
-![image](https://user-images.githubusercontent.com/84431598/122463987-ea136a00-cf7b-11eb-81b5-78af3ff9df7b.png)
-
-23. Sin usar lápiz, papel o calculadora determine la resistencia de cada red en la
-figura 6-66.
-
-![image](https://user-images.githubusercontent.com/84431598/122464129-1a5b0880-cf7c-11eb-8191-88a1cd504a2f.png)
-
-![image](https://user-images.githubusercontent.com/84431598/122466094-7a52ae80-cf7e-11eb-854b-35c67329ab67.png)
-
-
-25. Sin usar lápiz, papel o calculadora determine la resistencia aproximada de la
-red de la figura 6-68.
-
-![image](https://user-images.githubusercontent.com/84431598/122464298-50988800-cf7c-11eb-8efa-18bb6ff3eacf.png)
-
-![image](https://user-images.githubusercontent.com/84431598/122467092-b5091680-cf7f-11eb-9be3-9016980f4de5.png)
-
 ### 3.2.4 FUENTES DE VOLTAJE EN PARALELO
 
-27. Dos baterías de 20 V se conectan en paralelo para suministrar corriente a una
-carga de 100 V, como se muestra en la figura 6-69. Determine la corriente en
-la carga y en cada batería.
-
-![image](https://user-images.githubusercontent.com/84431598/122467279-f4376780-cf7f-11eb-8c81-d34b8a2ad188.png)
-
 ### 3.2.5 REGLA DEL DIVISOR DE CORRIENTE
-
-29. Utilice la regla del divisor de corriente para encontrar las corrientes I1 e I2 en
-las redes de la figura 6-71.
-
-![image](https://user-images.githubusercontent.com/84431598/122467445-234dd900-cf80-11eb-8e7f-a6d6741d772f.png)
-
-31. Utilice la regla del divisor de corriente para determinar todas las corrientes
-desconocidas en las redes de la figura 6-73.
-
-![image](https://user-images.githubusercontent.com/84431598/122467595-54c6a480-cf80-11eb-9bac-6d954933bf56.png)
-
 
 ### 3.2.6 ANÁLISIS DE CIRCUITOS EN PARALELO
 
