@@ -452,9 +452,35 @@ suficiente para hacer que el fusible se abra?
 
 ### 3.2.7 EFECTOS DE CARGA EN EL VOLTÍMETRO 
 
+45. Un voltímetro con una resistencia interna de 1 M se usa para medir el voltaje
+que se indica en el circuito de la figura 6-86.
+
+a. Determine la lectura de voltaje que indicará el medidor.
+
+b. Calcule el efecto de carga del voltímetro cuando se usa para medir el voltaje
+indicado.
+
+![image](https://user-images.githubusercontent.com/84431598/122473754-e554b300-cf87-11eb-93c5-84c24a5f5db2.png)
+
+
+47. Un voltímetro analógico barato se usa para medir el voltaje en las terminales
+a y b en el circuito de la figura 6-87. Si el voltímetro indica que el voltaje Vab
+ 1.2 V, ¿cuál es el voltaje real de la fuente si la resistencia del medidor es de
+50 k?
+
+![image](https://user-images.githubusercontent.com/84431598/122473855-074e3580-cf88-11eb-8918-a0fa1e9c0f1e.png)
+
+
 ### 3.2.8 ANÁLISIS POR COMPUTADORA
 
+49. Utilice Multisim para encontrar la corriente a través de cada resistor en el circuito
+de la figura 6-79.
 
+51. Utilice Multisim para simular un voltímetro con una resistencia interna de 1
+M, como se muestra en la figura 6-86.
+
+53. Utilice PSpice para encontrar la corriente a través de cada resistor en el circuito
+de la figura 6-79.
 
 ## 4. VIDEO
 
