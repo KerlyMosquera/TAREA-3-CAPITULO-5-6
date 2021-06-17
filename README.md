@@ -58,6 +58,8 @@
 
 ### 2.2.5  REGLA DEL DIVISOR DE CORRIENTE
 
+![image](https://user-images.githubusercontent.com/84431598/122325675-a3c4f900-cef0-11eb-9754-eb20cada5cdd.png)
+
 ### 2.2.6 ANÁLISIS DE CIRCUITOS EN PARALELO
 
 ### 2.2.7 EFECTOS DE CARGA EN EL VOLTÍMETRO
