@@ -284,11 +284,49 @@ El timepo de vida desminuye por el aumeto de voltaje al el circuitono estra cpmp
 
 ### 3.1.8 NOTACIÓN DE SUBÍNDICES DE VOLTAJES
 
+29. Resuelva para hallar los voltajes Vab y Vbc en los circuitos de la figura 5-68.
+
+![image](https://user-images.githubusercontent.com/84425276/122499976-84dd6a00-cfb7-11eb-84b8-ebc13955688c.png)
+
+![image](https://user-images.githubusercontent.com/84425276/122500016-96267680-cfb7-11eb-8945-91c9557dfe91.png)
+
+31. Para los circuitos de la figura 5-71, determine el voltaje en cada resistor y calcule el voltaje Va.
+
+![image](https://user-images.githubusercontent.com/84425276/122500057-a5a5bf80-cfb7-11eb-84b1-dff9da51ee96.png)
+
+
 ### 3.1.9 RESISTENCIA INTERNA DE FUENTES DE VOLTAJE
+
+33. Se mide el voltaje en una batería que tiene un voltaje de terminales abiertas de 14.2 V. Cuando se conecta a una carga de 100 Ω, el voltaje medido entre las terminales de la batería cae a 6.8 V.
+a. Determine la resistencia interna de la batería.
+b. Si la carga de 100 Ω fuera reemplazada con una de 200 Ω, ¿qué voltaje se mediría en las terminales de la batería?
+
 
 ### 3.1.10 EFECTOS DE CARGA DEL AMPERÍMETRO
 
+35. Para los circuitos en serie de la figura 5-74, determine la corriente en cada circuito. Si un amperímetro que tiene una resistencia interna de 50 Ω se usa para medir la corriente en los circuitos, determine la corriente a través de él y calcule el efecto de carga en cada circuito.
+
+![image](https://user-images.githubusercontent.com/84425276/122500136-cec65000-cfb7-11eb-83ad-ffc95803af79.png)
+
 ### 3.1.11 ANÁLISIS DE CIRCUITOS POR COMPUTADORA
+
+37. Vea los circuitos de la figura 5-66. Utilice Multisim para encontrar lo siguiente:
+a. La corriente en cada circuito.
+b. El voltaje en cada resistor en el circuito.
+
+![image](https://user-images.githubusercontent.com/84425276/122500172-e6053d80-cfb7-11eb-9dfd-7049451661ff.png)
+
+![image](https://user-images.githubusercontent.com/84425276/122500227-02a17580-cfb8-11eb-93c3-5a7214edf22e.png)
+
+![image](https://user-images.githubusercontent.com/84425276/122500269-18af3600-cfb8-11eb-8149-e25c7587ccfe.png)
+
+39. Vea el circuito de la figura 5-62. Use PSpice para encontrar lo siguiente:
+a. La corriente en el circuito.
+b. El voltaje en cada resistor en el circuito.
+
+![image](https://user-images.githubusercontent.com/84425276/122500436-662ba300-cfb8-11eb-9015-7dedeb6dd52c.png)
+
+![image](https://user-images.githubusercontent.com/84425276/122500448-6af05700-cfb8-11eb-9668-960f0f93446a.png)
 
 ###  3.2 CIRCUITOS EN PARARELO
 
