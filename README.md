@@ -605,7 +605,7 @@ de la figura 6-79.
 
 ## 4. VIDEO
 
-
+https://youtu.be/6T9fPUdt1zI
 
 ## 5. CONCLUSIONES
 
