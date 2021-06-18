@@ -299,6 +299,7 @@ El tiempo de vida  disminuye por el aumento de voltaje al circuito no esta compl
 
 ![image](https://user-images.githubusercontent.com/84425276/122500057-a5a5bf80-cfb7-11eb-84b1-dff9da51ee96.png)
 
+![image](https://user-images.githubusercontent.com/84425276/122592838-70868500-d02a-11eb-9c57-c23832b7e244.png)
 
 ### 3.1.9 RESISTENCIA INTERNA DE FUENTES DE VOLTAJE
 
@@ -306,6 +307,7 @@ El tiempo de vida  disminuye por el aumento de voltaje al circuito no esta compl
 a. Determine la resistencia interna de la batería.
 b. Si la carga de 100 Ω fuera reemplazada con una de 200 Ω, ¿qué voltaje se mediría en las terminales de la batería?
 
+![image](https://user-images.githubusercontent.com/84425276/122592884-7e3c0a80-d02a-11eb-98ef-eb68e89d4b7c.png)
 
 ### 3.1.10 EFECTOS DE CARGA DEL AMPERÍMETRO
 
