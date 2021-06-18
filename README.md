@@ -37,7 +37,7 @@
 
 ### 2.1.6 REGLA DEL DIVISOR DE VOLTAJE
 
-![image](https://user-images.githubusercontent.com/84458025/122574406-3d85c680-d015-11eb-9528-c5353703195b.png)
+![divi](https://user-images.githubusercontent.com/84458025/122586737-a45dac80-d022-11eb-9d98-d65793e855f6.png)
 
 ### 2.1.7 TIERRA DEL CIRCUITO
 
