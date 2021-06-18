@@ -610,7 +610,8 @@ https://youtu.be/6T9fPUdt1zI
 ## 5. CONCLUSIONES
 
 - Con el aprendizaje de estas unidades se puede hacer un correcto manejo de la Ley de Ohm.
-- 
+
+- Aprendimos la utilización de los programas Multisim y PSpice los cuales nos ayudaron a una fácil comprensión de la toma de mediciones de la corriente y voltaje.
 
 ## 6. BIBLIOGRAFIA
 Robbins, A. & Miller, W. (2007). *Análisis de circuitos: teoría y práctica (4ta ed).* México D.F., México: Cengage Learning.
