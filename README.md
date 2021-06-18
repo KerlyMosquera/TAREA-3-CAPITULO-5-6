@@ -615,7 +615,9 @@ https://youtu.be/6T9fPUdt1zI
 
 - Fue necesario conocimientos previos para la realizacion de estos ejercicios, como Leyes de Kirchoff y la ley de Ohm.
 
--En un circuito en paralelo la resistencia total es menor que la sumatoria de las resistencias del circuito completo: mientras más receptores, menor resistencia.
+- En un circuito en paralelo la resistencia total es menor que la sumatoria de las resistencias del circuito completo: mientras más receptores, menor resistencia.
+
+- Un divisor de corriente es un circuito eléctrico que transforma una corriente de entrada en otras 2 corrientes diferentes más pequeñas. Recuerda que las resistencias en paralelo están siempre a la misma tensión, es decir en el circuito de arriba, V2 será igual a V1 e igual a la Vtotal del circuito.
 
 - El uso correcto del divisor de corritente y de voltaje en un cicuito.
 
