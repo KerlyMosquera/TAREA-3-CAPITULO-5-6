@@ -445,6 +445,9 @@ en la red de la figura 6-75.
 
 ![image](https://user-images.githubusercontent.com/84431598/122472136-c9e8a880-cf85-11eb-9c7c-38c251da284f.png)
 
+![image](https://user-images.githubusercontent.com/84431598/122504736-7e9fbb80-cfc0-11eb-8261-2d7023265385.png)
+
+
 35. Vea el circuito de la figura 6-77:
 
 ![image](https://user-images.githubusercontent.com/84431598/122472548-5d21de00-cf86-11eb-9468-db0f93251af7.png)
