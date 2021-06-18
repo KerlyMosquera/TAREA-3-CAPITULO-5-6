@@ -332,12 +332,68 @@ b. El voltaje en cada resistor en el circuito.
 
 ### 3.2.1 CIRCUITOS EN PARALELO
 
+1. Indique cuales de los elementos en la figura 6-44 están conectados en paralelo y cuales en serie.
+
+![image](https://user-images.githubusercontent.com/84425276/122500560-a559f400-cfb8-11eb-81d4-8d4c9c223d90.png)
+
+![image](https://user-images.githubusercontent.com/84425276/122500584-b0ad1f80-cfb8-11eb-9422-34d6d29b8160.png)
+
+3. Sin cambiar las posiciones de los componentes, muestre al menos una forma de conectar en paralelo todos los elementos de la figura 6-46.
+
+![image](https://user-images.githubusercontent.com/84425276/122500609-bc98e180-cfb8-11eb-8a13-d9bc9df60741.png)
+
 ### 3.2.2 LEY DE CORRIENTE DE KIRCHHOFF
 
 ### 3.2.3 RESISTORES EN PARALELO
 
+5. Utilice la ley de corriente de Kirchhoff para determinar las magnitudes y direcciones de las corrientes que se indican en cada red que se muestra en la figura 6-48.
 
+![image](https://user-images.githubusercontent.com/84425276/122500970-67a99b00-cfb9-11eb-957d-b4b6ff88aa94.png)
 
+![image](https://user-images.githubusercontent.com/84425276/122500989-72643000-cfb9-11eb-930b-3af830f39684.png)
+
+7. Considere la red de la figura 6-50.
+a. Calcule las corrientes I1, I2, I3 e I4.
+b. Determine el valor de la resistencia R3.
+
+![image](https://user-images.githubusercontent.com/84425276/122501036-8314a600-cfb9-11eb-87a5-ee5750acdbb6.png)
+
+![image](https://user-images.githubusercontent.com/84425276/122501256-f1596880-cfb9-11eb-850b-1ee109e560b4.png)
+
+9. Vea la red de la figura 6-52:
+a. Utilice la ley de corriente de Kirchhoff para calcular las corrientes desconocidas,
+I1, I2, I3 e I4.
+b. Calcule el voltaje V, en la red.
+c. Determine los valores de los resistores desconocidos, R1, R3 y R4.
+
+![image](https://user-images.githubusercontent.com/84425276/122501285-fd452a80-cfb9-11eb-9149-0648bca44b4b.png)
+
+![image](https://user-images.githubusercontent.com/84425276/122501306-07ffbf80-cfba-11eb-957c-50f00d75d06c.png)
+
+11. Calcule la conductancia total y resistencia total de cada red que se muestra en la figura 6-54.
+
+![image](https://user-images.githubusercontent.com/84425276/122501330-177f0880-cfba-11eb-8ff6-88236e92ad71.png)
+
+![image](https://user-images.githubusercontent.com/84425276/122501343-21087080-cfba-11eb-97f4-2502c4dff214.png)
+
+13. Para las redes de la figura 6-56 determine el valor de la(s) resistencia(s) desconocidas para que resulte la resistencia total que se indica.
+
+![image](https://user-images.githubusercontent.com/84425276/122501421-47c6a700-cfba-11eb-83fa-f4c48670467e.png)
+
+15. Vea la red de la figura 6-58:
+a. Calcule los valores de R1, R2 y R3 para que la resistencia total de la red sea de 200 Ω.
+
+![image](https://user-images.githubusercontent.com/84425276/122501449-53b26900-cfba-11eb-9078-9549fbe48224.png)
+
+![image](https://user-images.githubusercontent.com/84425276/122501467-5a40e080-cfba-11eb-84e2-ee3523ad8e29.png)
+
+17. Vea la red de la figura 6-60:
+a. Encuentre los voltajes a través de R1 y R2.
+b. Determine la corriente I2.
+
+![image](https://user-images.githubusercontent.com/84425276/122501483-662ca280-cfba-11eb-8e5b-ee50adc5d719.png)
+
+![image](https://user-images.githubusercontent.com/84425276/122501527-76dd1880-cfba-11eb-818e-3b952db63430.png)
 
 19. Determine la resistencia total de cada red de la figura 6-62.
 
