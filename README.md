@@ -580,9 +580,16 @@ suficiente para hacer que el fusible se abra?
 que se indica en el circuito de la figura 6-86.
 
 ![image](https://user-images.githubusercontent.com/84458025/122497767-8dcc3c80-cfb3-11eb-8eb5-9e958b189173.png)
+
+![image](https://user-images.githubusercontent.com/84458025/122594851-35d21c00-d02d-11eb-9e2f-fe3b0b03623c.png)
+
 47. Un voltímetro analógico barato se usa para medir el voltaje en las terminales a y b en el circuito de la figura 6-87. Si el voltímetro indica que el voltaje Vab=1.2 V, ¿cuál es el voltaje real de la fuente si la resistencia del medidor es de 50 komhs?
 
 ![image](https://user-images.githubusercontent.com/84431598/122473855-074e3580-cf88-11eb-8918-a0fa1e9c0f1e.png)
+
+![image](https://user-images.githubusercontent.com/84458025/122594655-ec81cc80-d02c-11eb-90d4-18f4f3a76a2d.png)
+
+![image](https://user-images.githubusercontent.com/84458025/122594935-5306ea80-d02d-11eb-8885-20e6f0f42718.png)
 
 
 ### 3.2.8 ANÁLISIS POR COMPUTADORA
@@ -615,9 +622,7 @@ https://youtu.be/6T9fPUdt1zI
 
 - Fue necesario conocimientos previos para la realizacion de estos ejercicios, como Leyes de Kirchoff y la ley de Ohm.
 
-- En un circuito en paralelo la resistencia total es menor que la sumatoria de las resistencias del circuito completo: mientras más receptores, menor resistencia.
-
-- Un divisor de corriente es un circuito eléctrico que transforma una corriente de entrada en otras 2 corrientes diferentes más pequeñas. Recuerda que las resistencias en paralelo están siempre a la misma tensión, es decir en el circuito de arriba, V2 será igual a V1 e igual a la Vtotal del circuito.
+-En un circuito en paralelo la resistencia total es menor que la sumatoria de las resistencias del circuito completo: mientras más receptores, menor resistencia.
 
 - El uso correcto del divisor de corritente y de voltaje en un cicuito.
 
