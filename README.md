@@ -32,8 +32,7 @@
 
 ### 2.1.5 INTERCAMBIO DE COMPONENTE EN SERIE
 
-![image](https://user-images.githubusercontent.com/84458025/122574530-58583b00-d015-11eb-8784-acf643e0a7e6.png)
-
+![seriee](https://user-images.githubusercontent.com/84458025/122587078-08807080-d023-11eb-99b0-90a99278f94b.png)
 
 ### 2.1.6 REGLA DEL DIVISOR DE VOLTAJE
 
