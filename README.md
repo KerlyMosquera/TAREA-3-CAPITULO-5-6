@@ -52,7 +52,7 @@
 
 ### 2.2 CIRCUITOS EN PARALELO
 
-### 2.2.1 CIRCITOS EN PARALELO
+### 2.2.1 CIRCUITOS EN PARALELO
 
 ![Circuitos en paralelo](https://user-images.githubusercontent.com/84425276/122332394-f5bf4c00-cefb-11eb-89b0-f704d9d2be18.png)
 
@@ -211,17 +211,18 @@ g. Muestre que la potencia suministrada por la fuente de voltaje es igual a la s
 
 ![image](https://user-images.githubusercontent.com/84458025/122489203-ba2c8c80-cfa4-11eb-8394-f6508ac74199.png)
 
+###  3.1.5 INTERCAMBIO DE COMPONENTES EN SERIE
 
 21.-Vuelva a dibujar los circuitos de la figura 5-64 para mostrar una sola fuente de voltaje para cada circuito. Encuentre la corriente para cada circuito.
 
 ![image](https://user-images.githubusercontent.com/84458025/122465920-42e40200-cf7e-11eb-8e83-ffcf25050656.png)
 
-
 ![image](https://user-images.githubusercontent.com/84458025/122464768-dae0ec00-cf7c-11eb-94f7-5108cf508fcc.png)
 
 ![image](https://user-images.githubusercontent.com/84458025/122464953-0f54a800-cf7d-11eb-8da4-fe8ae03b8472.png)
 
-### 3.5.6 REGLA DEL DIVISOR DE VOLTAJE
+### 3.1.6 REGLA DEL DIVISOR DE VOLTAJE
+
 23.-Utilice la regla del divisor de voltaje para determinar el voltaje en cada resistor en los circuitos de la figura 5-66. Use sus resultados para verificar la ley de voltaje de Kirchhoff para cada circuito.
 
 ![image](https://user-images.githubusercontent.com/84458025/122465836-28aa2400-cf7e-11eb-90e3-358992023125.png)
@@ -231,16 +232,13 @@ g. Muestre que la potencia suministrada por la fuente de voltaje es igual a la s
 ![image](https://user-images.githubusercontent.com/84458025/122466378-d9b0be80-cf7e-11eb-9891-4819cad23182.png)
 
 25.-Vea los circuitos de la figura 5-68:
+
 a. Encuentre los valores de los resistores desconocidos.
-
-
 
 b. Calcule el voltaje en cada resistor.
 
 
-
 c. Determine la potencia disipada por cada resistor.
-
 
 
 27.- Una serie de focos se conecta a una fuente de 120 V como se muestra en la figura 5-70.
@@ -272,15 +270,7 @@ NO
 
 e. Basado en sus cálculos del paso (d), ¿qué cree que pasaría con la esperanzade vida del resto de los focos, si los dos que fallan no fueran reemplazados?
 
-El timepo de vida desminuye por el aumeto de voltaje al el circuitono estra cpmpleto.
-
-
-
-### 3.1.4 FUENTES DE VOLTAJES EN SERIE
-
-### 3.1.5 INTERCAMBIO DE COMPONENTES EN SERIE
-
-### 3.1.7 TIERRA DEL CIRCUITO
+El tiempo de vida  disminuye por el aumento de voltaje al circuito no esta completo
 
 ### 3.1.8 NOTACIÓN DE SUBÍNDICES DE VOLTAJES
 
