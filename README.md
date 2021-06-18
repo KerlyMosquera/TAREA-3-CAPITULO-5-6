@@ -612,9 +612,14 @@ https://youtu.be/6T9fPUdt1zI
 - Con el aprendizaje de estas unidades se puede hacer un correcto manejo de la Ley de Ohm.
 
 - Aprendimos la utilización de los programas Multisim y PSpice los cuales nos ayudaron a una fácil comprensión de la toma de mediciones de la corriente y voltaje.
-- Fue necesario conocimientos previos para la realizacion de estos ejercicios, como Leyes de Kirchoff y la ley de Ohm
+
+- Fue necesario conocimientos previos para la realizacion de estos ejercicios, como Leyes de Kirchoff y la ley de Ohm.
+
+-En un circuito en paralelo la resistencia total es menor que la sumatoria de las resistencias del circuito completo: mientras más receptores, menor resistencia.
+
 - El uso correcto del divisor de corritente y de voltaje en un cicuito.
-- Para lograr obtener las resistencias totales de un circuito, depende muucho si dicho circuito esta en paralelo o en serie de esto depende el metodo a aplicase
+
+- Para lograr obtener las resistencias totales de un circuito, depende muucho si dicho circuito esta en paralelo o en serie de esto depende el método a aplicarse.
 
 ## 6. BIBLIOGRAFIA
 Robbins, A. & Miller, W. (2007). *Análisis de circuitos: teoría y práctica (4ta ed).* México D.F., México: Cengage Learning.
