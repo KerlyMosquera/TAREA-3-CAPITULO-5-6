@@ -400,27 +400,46 @@ fuente de voltaje.
 
 39. Vea el circuito de la figura 6-81:
 
+![image](https://user-images.githubusercontent.com/84458025/122497870-b94f2700-cfb3-11eb-8487-fa133e9d5c84.png)
+
+
 a. Calcule la corriente a través de cada resistor en el circuito.
 
+![image](https://user-images.githubusercontent.com/84458025/122497859-b2c0af80-cfb3-11eb-9adb-c3f6a2c18b41.png)
 
 
 b. Determine la corriente total suministrada por la fuente de voltaje.
 
+![image](https://user-images.githubusercontent.com/84458025/122497945-e00d5d80-cfb3-11eb-822d-c12fffb203b2.png)
+
+
 c. Encuentre la potencia disipada por cada resistor.
 
-![image](https://user-images.githubusercontent.com/84431598/122472942-d3264500-cf86-11eb-8856-91e38f1beae3.png)
+![image](https://user-images.githubusercontent.com/84458025/122498128-2ebaf780-cfb4-11eb-8a4d-fe47d21e58bd.png)
+
 
 41. En el circuito de la figura 6-83:
 
+![image](https://user-images.githubusercontent.com/84458025/122498247-6033c300-cfb4-11eb-8ce1-7eaaa2fb4620.png)
+
 a. Determine los valores de todos los resistores.
+
+![image](https://user-images.githubusercontent.com/84458025/122498663-244d2d80-cfb5-11eb-8dea-dcad926cb977.png)
+
 
 b. Calcule las corrientes a través de R1, R2 y R4.
 
+
+
+
 c. Encuentre las corrientes I1 e I2.
+
+![image](https://user-images.githubusercontent.com/84458025/122498675-2a430e80-cfb5-11eb-88e6-86b3ef113103.png)
+
 
 d. Encuentre la potencia disipada por los resistores R2, R3 y R4.
 
-![image](https://user-images.githubusercontent.com/84431598/122473108-049f1080-cf87-11eb-92c6-fa79951f1285.png)
+![image](https://user-images.githubusercontent.com/84458025/122498733-42b32900-cfb5-11eb-8cd2-dda7a3bab1b4.png)
 
 43. Para el circuito de la figura 6-85 determine cada una de las corrientes indicadas.
 Si el circuito tiene un fusible de 15 A, como se muestra, ¿la corriente es
@@ -434,18 +453,8 @@ suficiente para hacer que el fusible se abra?
 45. Un voltímetro con una resistencia interna de 1 M se usa para medir el voltaje
 que se indica en el circuito de la figura 6-86.
 
-a. Determine la lectura de voltaje que indicará el medidor.
-
-b. Calcule el efecto de carga del voltímetro cuando se usa para medir el voltaje
-indicado.
-
-![image](https://user-images.githubusercontent.com/84431598/122473754-e554b300-cf87-11eb-93c5-84c24a5f5db2.png)
-
-
-47. Un voltímetro analógico barato se usa para medir el voltaje en las terminales
-a y b en el circuito de la figura 6-87. Si el voltímetro indica que el voltaje Vab
- 1.2 V, ¿cuál es el voltaje real de la fuente si la resistencia del medidor es de
-50 k?
+![image](https://user-images.githubusercontent.com/84458025/122497767-8dcc3c80-cfb3-11eb-8eb5-9e958b189173.png)
+47. Un voltímetro analógico barato se usa para medir el voltaje en las terminales a y b en el circuito de la figura 6-87. Si el voltímetro indica que el voltaje Vab=1.2 V, ¿cuál es el voltaje real de la fuente si la resistencia del medidor es de 50 komhs?
 
 ![image](https://user-images.githubusercontent.com/84431598/122473855-074e3580-cf88-11eb-8918-a0fa1e9c0f1e.png)
 
@@ -455,11 +464,18 @@ a y b en el circuito de la figura 6-87. Si el voltímetro indica que el voltaje 
 49. Utilice Multisim para encontrar la corriente a través de cada resistor en el circuito
 de la figura 6-79.
 
-51. Utilice Multisim para simular un voltímetro con una resistencia interna de 1
-M, como se muestra en la figura 6-86.
+![image](https://user-images.githubusercontent.com/84458025/122496790-f31f2e00-cfb1-11eb-849c-8159d2a0fdd5.png)
+
+51. Utilice Multisim para simular un voltímetro con una resistencia interna de 1M ohms, como se muestra en la figura 6-86.
+
+![image](https://user-images.githubusercontent.com/84458025/122497156-8b1d1780-cfb2-11eb-95c6-5d5a929e4877.png)
+
 
 53. Utilice PSpice para encontrar la corriente a través de cada resistor en el circuito
 de la figura 6-79.
+
+![image](https://user-images.githubusercontent.com/84458025/122496688-ca973400-cfb1-11eb-9456-aae15d837bf6.png)
+
 
 ## 4. VIDEO
 
