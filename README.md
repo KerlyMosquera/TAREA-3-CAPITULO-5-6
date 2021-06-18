@@ -572,4 +572,7 @@ de la figura 6-79.
 
 ## 5. CONCLUSIONES
 
+
+
+## 6. BIBLIOGRAFIA
 Robbins, A. & Miller, W. (2007). *Análisis de circuitos: teoría y práctica (4ta ed).* México D.F., México: Cengage Learning.
