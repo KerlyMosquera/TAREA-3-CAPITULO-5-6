@@ -32,17 +32,18 @@
 
 ### 2.1.5 INTERCAMBIO DE COMPONENTE EN SERIE
 
-![h](https://user-images.githubusercontent.com/84458025/122573986-ca7c5000-d014-11eb-97eb-0c9b2b921bcb.jpg)
+![image](https://user-images.githubusercontent.com/84458025/122574530-58583b00-d015-11eb-8784-acf643e0a7e6.png)
 
 
 ### 2.1.6 REGLA DEL DIVISOR DE VOLTAJE
 
-![g](https://user-images.githubusercontent.com/84458025/122573553-7ffad380-d014-11eb-955f-3bdd4455e2c4.jpg)
+![image](https://user-images.githubusercontent.com/84458025/122574406-3d85c680-d015-11eb-9528-c5353703195b.png)
+
 
 
 ### 2.1.7 TIERRA DEL CIRCUITO
 
-![f](https://user-images.githubusercontent.com/84458025/122573198-25fa0e00-d014-11eb-9f16-2798bd1b95f6.jpg)
+![image](https://user-images.githubusercontent.com/84458025/122574983-dd435480-d015-11eb-95f7-5c117cbdb875.png)
 
 
 ### 2.1.8 NOTACIÓN DE SUBÍNDICES DE VOLTAJE
@@ -88,7 +89,8 @@
 
 ### 2.2.7 EFECTOS DE CARGA EN EL VOLTÍMETRO
 
-![j](https://user-images.githubusercontent.com/84458025/122574242-13cc9f80-d015-11eb-9cdc-72f90c103521.jpg)
+![image](https://user-images.githubusercontent.com/84458025/122574598-6d34ce80-d015-11eb-8221-d40bbd4e881c.png)
+
 
 
 ### 2.2.8 ANÁLISIS POR COMPUTADORA
