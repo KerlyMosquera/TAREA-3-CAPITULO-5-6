@@ -252,11 +252,11 @@ g. Muestre que la potencia suministrada por la fuente de voltaje es igual a la s
 
 a. Encuentre los valores de los resistores desconocidos.
 
+![image](https://user-images.githubusercontent.com/84458025/122581423-a6247180-d01c-11eb-9776-937dd90ed3a3.png)
+
 b. Calcule el voltaje en cada resistor.
 
-
-c. Determine la potencia disipada por cada resistor.
-
+![image](https://user-images.githubusercontent.com/84458025/122581895-277c0400-d01d-11eb-85ec-e75d0562c84b.png)
 
 27.- Una serie de focos se conecta a una fuente de 120 V como se muestra en la figura 5-70.
 
@@ -394,6 +394,19 @@ a. Calcule los valores de R1, R2 y R3 para que la resistencia total de la red se
 
 ![image](https://user-images.githubusercontent.com/84425276/122501467-5a40e080-cfba-11eb-84e2-ee3523ad8e29.png)
 
+a
+
+![image](https://user-images.githubusercontent.com/84458025/122575838-be918d80-d016-11eb-8ef5-f37cd39cf9f3.png)
+
+b
+
+![image](https://user-images.githubusercontent.com/84458025/122576071-f13b8600-d016-11eb-8d2e-5e74e87496f7.png)
+
+c
+
+![image](https://user-images.githubusercontent.com/84458025/122576272-23e57e80-d017-11eb-8c06-0694d86d55ab.png)
+
+
 17. Vea la red de la figura 6-60:
 a. Encuentre los voltajes a través de R1 y R2.
 b. Determine la corriente I2.
@@ -415,6 +428,13 @@ acuerdo con las condiciones que se indican.
 figura 6-66.
 
 ![image](https://user-images.githubusercontent.com/84431598/122471048-65791980-cf84-11eb-98d6-19dc7e33a963.png)
+A
+
+![image](https://user-images.githubusercontent.com/84458025/122577192-1bda0e80-d018-11eb-8e2c-fb45dfacf4a5.png)
+
+![image](https://user-images.githubusercontent.com/84458025/122577779-c94d2200-d018-11eb-814b-9f2ae89e2e85.png)
+
+
 
 25. Sin usar lápiz, papel o calculadora determine la resistencia aproximada de la
 red de la figura 6-68.
@@ -448,6 +468,11 @@ las redes de la figura 6-71.
 desconocidas en las redes de la figura 6-73.
 
 ![image](https://user-images.githubusercontent.com/84431598/122471992-99a10a00-cf85-11eb-92a2-927219f1880e.png)
+
+![image](https://user-images.githubusercontent.com/84458025/122578424-7758cc00-d019-11eb-8a17-f431c10f902e.png)
+
+![image](https://user-images.githubusercontent.com/84458025/122579588-ab80bc80-d01a-11eb-8084-69e1f559a99f.png)
+
 
 33. Utilice la regla del divisor de corriente para determinar las resistencias desconocidas
 en la red de la figura 6-75.
@@ -531,11 +556,6 @@ c. Encuentre la potencia disipada por cada resistor.
 a. Determine los valores de todos los resistores.
 
 ![image](https://user-images.githubusercontent.com/84458025/122498663-244d2d80-cfb5-11eb-8dea-dcad926cb977.png)
-
-
-b. Calcule las corrientes a través de R1, R2 y R4.
-
-
 
 
 c. Encuentre las corrientes I1 e I2.
