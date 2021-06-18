@@ -151,26 +151,17 @@ e. La potencia disipada por todos los resistores.
 
 a. La corriente, I.
 
-I=V/R
+![image](https://user-images.githubusercontent.com/84458025/122486516-d4fc0280-cf9e-11eb-9ac0-7645bf22087b.png)
 
-I=4v/100ohms
 
-I=40mA
 b. La caída de voltaje en cada resistor en el circuito.
 
-V1=(40mA)(3kohms)=12V
+![image](https://user-images.githubusercontent.com/84458025/122487936-032f1180-cfa2-11eb-8fcd-d1ee3a28d2e9.png)
 
-V3=(40mA)(0.25kohms)=10V
 
 c. El voltaje en las terminales abiertas a y b.
 
-E=I(RT) 
-
-E=40mA(300ohm+100ohm+250ohm)      
-
-E=40mA(0.65k ohms)
-
-E=26v      
+![image](https://user-images.githubusercontent.com/84458025/122488003-29ed4800-cfa2-11eb-85d6-47c397d4dad8.png)
 
 17.-Repita el problema 16 para el circuito de la figura 5-60.
 
@@ -178,88 +169,48 @@ E=26v
 
 a. Utilice la ley de voltaje de Kirchhoff para encontrar las caídas de voltajeen R2 y R3.
 
-16v=7.5+IxR2+IxR3
+![image](https://user-images.githubusercontent.com/84458025/122488351-ed6e1c00-cfa2-11eb-85be-f747f20c08f8.png)
 
-16v=7.5+Ix4.7+Ix3.6 
-
-Vr2=(4.7ohms)(1.02mA)=4.81v
-
-Vr3=(3.6ohms)(1.02mA)=3.69v
 
 b. Determine la magnitud de la corriente, I.
-16v/((7.32+4.7+3.6))=I     
-1.02mA=I  
-I=1.02 mA
+
+![image](https://user-images.githubusercontent.com/84458025/122488473-227a6e80-cfa3-11eb-8789-11fb5618cab1.png)
+
 
 c. Encuentre la resistencia desconocida, R1.
 
-R1= 7.5 V
+R1= 7.32 K
 
 19.-Repita el problema 18 para el circuito de la figura 5-62
 
 ![image](https://user-images.githubusercontent.com/84458025/122459234-4b383f00-cf76-11eb-8e41-f50ad78c1a59.png)
 
 a. Encuentre RT.
-RT=r1+r2+r3+r4   
 
-RT=120+39+78+220
+![image](https://user-images.githubusercontent.com/84458025/122488868-088d5b80-cfa4-11eb-9107-19044bd9cda7.png)
 
-RT=457ohms
 
 b. Resuelva para hallar la corriente, I.
 
-E=I(RT)
+![image](https://user-images.githubusercontent.com/84458025/122488905-1e9b1c00-cfa4-11eb-8445-9a94fd39143d.png)
 
-36v=I(457ohms)
-
-36v/(457ohms)=I 
-
-I=78.8mA
 
 c. Determine la caída de voltaje en cada resistor.
 
-V1=(78.8mA)(0.12kohms)=9.46v
-
-V2=(78.8mA)(0.39kohms)=3.07v
-
-V3=(78.8mA)(0.78kohms)=6.14v
-
-V4=(78.8mA)(0.22kohms)=17.33v
-
+![image](https://user-images.githubusercontent.com/84458025/122488957-3b375400-cfa4-11eb-8fc6-c74a66a26004.png)
 
 d. Verifique la Ley de voltaje de Kirchhoff alrededor del lazo cerrado.
 
-IT=I1+I2+I3+I4   
-
-36v=9.46v+3.07v+6.14v+17.33v
-
-36v=36v
-
-36V
+![image](https://user-images.githubusercontent.com/84458025/122489053-6b7ef280-cfa4-11eb-99c5-b9c75966ebb0.png)
 
 e. Encuentre la potencia disipada por cada resistor.
 
-P1=(78.8mA)^2 (0.12kohms)=0.745w
-
-P2=(78.8mA)^2 (0.39kohms)=0.242w
-
-P3=(78.8mA)^2 (0.78kohms)=0.484w
-
-P4=(78.8mA)^2 (0.22kohms)=1.365w
-
-
-f. Determine la potencia mínima especificada para cada resistor, si están disponibles con las siguientes especificaciones de potencia: 1⁄8 W, 1⁄4 W, 1⁄2 W,1 W y 2 W.
-
-P=P1+P2+P3+P4  
-
-2.836w=0745w+0.242w+0.484w+1.365w
-
-2.836w=2.836w
-
+![image](https://user-images.githubusercontent.com/84458025/122489119-89e4ee00-cfa4-11eb-9965-3847facccba9.png)
 
 g. Muestre que la potencia suministrada por la fuente de voltaje es igual a la suma de las potencias disipadas por los resistores.
 
-V=180
+![image](https://user-images.githubusercontent.com/84458025/122489203-ba2c8c80-cfa4-11eb-8394-f6508ac74199.png)
+
 
 21.-Vuelva a dibujar los circuitos de la figura 5-64 para mostrar una sola fuente de voltaje para cada circuito. Encuentre la corriente para cada circuito.
 
@@ -293,30 +244,25 @@ c. Determine la potencia disipada por cada resistor.
 
 
 27.- Una serie de focos se conecta a una fuente de 120 V como se muestra en la figura 5-70.
+
+![image](https://user-images.githubusercontent.com/84458025/122486330-7767b600-cf9e-11eb-85f8-25125a3dc5cc.png)
+
+
 a. Determine la corriente en el circuito.
 
-![image](https://user-images.githubusercontent.com/84458025/122467221-e2ee5b00-cf7f-11eb-94bc-65c272665e37.png)
+![image](https://user-images.githubusercontent.com/84458025/122486307-6b7bf400-cf9e-11eb-892c-d4e8a433c136.png)
+
 
 
 b. Utilice la regla del divisor de voltaje para encontrar el voltaje en cada foco.
 
-v=(25ohm/(24(25)ohms))120v=5v
+![image](https://user-images.githubusercontent.com/84458025/122486279-5a32e780-cf9e-11eb-82c8-4f5833e1305e.png)
 
-vf=(5v/24focos)=0.2v
-
-V=0,2
 
 c. Calcule la potencia disipada por cada foco.
 
-p=(0.2A)^2 (25kohms)=1w
+![image](https://user-images.githubusercontent.com/84458025/122486259-51daac80-cf9e-11eb-93e6-64650d37935b.png)
 
-E/RT=I
-
-((120v))/(22(25kohms))
-
-I=0.218A
-
-p=(0.218A)^2 (25kohms)=1.19w
 
 
 d. Si un solo foco llegara a estar en circuito abierto, la serie entera dejaría de funcionar. Para prevenir que ello ocurra, cada foco tiene una pequeña cinta
@@ -327,6 +273,8 @@ NO
 e. Basado en sus cálculos del paso (d), ¿qué cree que pasaría con la esperanzade vida del resto de los focos, si los dos que fallan no fueran reemplazados?
 
 El timepo de vida desminuye por el aumeto de voltaje al el circuitono estra cpmpleto.
+
+
 
 ### 3.1.4 FUENTES DE VOLTAJES EN SERIE
 
@@ -349,6 +297,9 @@ El timepo de vida desminuye por el aumeto de voltaje al el circuitono estra cpmp
 ### 3.2.2 LEY DE CORRIENTE DE KIRCHHOFF
 
 ### 3.2.3 RESISTORES EN PARALELO
+
+
+
 
 19. Determine la resistencia total de cada red de la figura 6-62.
 
@@ -420,12 +371,23 @@ d. Verifique la ley de corriente de Kirchhoff en el nodo a.
 
 37. Vea el circuito de la figura 6-79.
 
+![image](https://user-images.githubusercontent.com/84458025/122490700-34aadb80-cfa8-11eb-8fb2-39eac5b8d18d.png)
+
+
 a. Encuentre la resistencia total RT y la corriente I a través de la fuente de
 voltaje.
 
+![image](https://user-images.githubusercontent.com/84458025/122490623-0927f100-cfa8-11eb-8daf-64a5572a7dcf.png)
+
 b. Encuentre todas las corrientes desconocidas en el circuito.
 
+![image](https://user-images.githubusercontent.com/84458025/122490829-75a2f000-cfa8-11eb-8eb3-8145bde67f02.png)
+
+
 c Verifique la ley de corriente de Kirchhoff en el nodo a.
+
+![image](https://user-images.githubusercontent.com/84458025/122490986-bb5fb880-cfa8-11eb-920a-238d5add8e78.png)
+
 
 d. Determine la potencia disipada por cada resistor. Verifique que la potencia
 total disipada por los resistores es igual a la potencia suministrada por la
@@ -433,9 +395,14 @@ fuente de voltaje.
 
 ![image](https://user-images.githubusercontent.com/84431598/122472799-a96d1e00-cf86-11eb-9c17-89ca5c91e61b.png)
 
+![image](https://user-images.githubusercontent.com/84458025/122491105-0a0d5280-cfa9-11eb-9774-545762a84137.png)
+
+
 39. Vea el circuito de la figura 6-81:
 
 a. Calcule la corriente a través de cada resistor en el circuito.
+
+
 
 b. Determine la corriente total suministrada por la fuente de voltaje.
 
