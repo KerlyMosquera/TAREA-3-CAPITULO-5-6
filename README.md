@@ -425,6 +425,8 @@ la carga y en cada batería.
 
 ![image](https://user-images.githubusercontent.com/84431598/122478030-497a7580-cf8e-11eb-9096-8675f821d321.png)
 
+![image](https://user-images.githubusercontent.com/84431598/122504874-cfafaf80-cfc0-11eb-8909-ba3aef6aac60.png)
+
 
 ### 3.2.5 REGLA DEL DIVISOR DE CORRIENTE
 29. Utilice la regla del divisor de corriente para encontrar las corrientes I1 e I2 en
