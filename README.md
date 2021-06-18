@@ -95,6 +95,9 @@
 
 ### 2.2.8 ANÁLISIS POR COMPUTADORA
 
+![mapas](https://user-images.githubusercontent.com/84458025/122585792-804d9b80-d021-11eb-89de-fec9ad7134f3.png)
+
+
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE LOS EJERCICIOS
 
 ###  3.1 CIRCUITOS EN SERIE
