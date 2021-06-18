@@ -39,12 +39,9 @@
 
 ![image](https://user-images.githubusercontent.com/84458025/122574406-3d85c680-d015-11eb-9528-c5353703195b.png)
 
-
-
 ### 2.1.7 TIERRA DEL CIRCUITO
 
-![image](https://user-images.githubusercontent.com/84458025/122574983-dd435480-d015-11eb-95f7-5c117cbdb875.png)
-
+![tierra ](https://user-images.githubusercontent.com/84458025/122586236-0833a580-d022-11eb-8ac1-d6f6ac750085.png)
 
 ### 2.1.8 NOTACIÓN DE SUBÍNDICES DE VOLTAJE
 
@@ -89,8 +86,7 @@
 
 ### 2.2.7 EFECTOS DE CARGA EN EL VOLTÍMETRO
 
-![image](https://user-images.githubusercontent.com/84458025/122574598-6d34ce80-d015-11eb-8221-d40bbd4e881c.png)
-
+![voltimetro](https://user-images.githubusercontent.com/84458025/122586464-55b01280-d022-11eb-9114-c96ff408ec11.png)
 
 
 ### 2.2.8 ANÁLISIS POR COMPUTADORA
