@@ -74,6 +74,9 @@
 
 ### 2.2.6 ANÁLISIS DE CIRCUITOS EN PARALELO
 
+![image](https://user-images.githubusercontent.com/84431598/122519658-515f0780-cfd8-11eb-8012-b940e63425a8.png)
+
+
 ### 2.2.7 EFECTOS DE CARGA EN EL VOLTÍMETRO
 
 ### 2.2.8 ANÁLISIS POR COMPUTADORA
